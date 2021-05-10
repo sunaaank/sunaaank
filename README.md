@@ -18,22 +18,6 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/RubyonRails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</p>
-
-
 
 <h2 align="center"> 🙋🏻‍♀️ Contact </h2>
 
