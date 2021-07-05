@@ -1,16 +1,4 @@
 <div align="left">
-  <div align="left">
-    <h1>반갑습니다😎 <br/> 프론트엔드 개발자 남궁선아입니다🙌</h1>
-    <h3>INTERESTS</h3>
-    <ul align="left">
-      <li>🦸‍ 작업하기 좋은 카페, 회사 근처 맛집 찾기를 좋아합니다.</li>
-      <li>🕹 스팀게임과 레트로 게임을 좋아합니다.</li>
-      <li>🍵 차와 밀크티를 우려내고 마시는 시간을 좋아합니다.</li>
-      <li>📚 개발 서적 이외에도 디자인, 인문사회 분야 글 읽기를 좋아합니다.</li>
-      <li>✍ 기록과 정리를 좋아합니다. 꾸준함을 유지하기 위해 1일 1커밋 프로젝트를 하고 있습니다.</li>
-    </ul>
-  </div>
-
 <div>
   
   [![남궁선아(SUNA NAMGUNG)'s github stats](https://github-readme-stats.vercel.app/api?username=sunaaank)](https://github.com/anuraghazra/github-readme-stats)
